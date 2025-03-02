@@ -1,4 +1,4 @@
-This Python package allows the calculation of distance between two polygons. Polygons may have thematic attributes (e.g. name) to add further description.
+TThis Python package allows the calculation of distance between two polygons. Polygons may have thematic attributes (e.g. name) to add further description.
 
 The available geometric distance functions between polygons are:
 * Hausdorff distance
